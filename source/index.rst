@@ -8,4 +8,4 @@
     begging/index
     base/index
     tool/index
-    aa
+    chapters/*
